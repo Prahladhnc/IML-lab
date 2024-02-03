@@ -14,4 +14,4 @@ Q3)STOCK PREDICTION
 
 Q4)
 
-![Uploading image.png…]()
+![image](https://github.com/Prahladhnc/IML-lab/assets/116821694/b84f9631-1a72-40e5-9d50-4d5123d8f4cc)
